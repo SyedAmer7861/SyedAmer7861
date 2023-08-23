@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Syed Amer Ali 
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently persuing Btech in C.S.E
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
 <!---
